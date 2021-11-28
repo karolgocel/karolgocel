@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karolgocel
-- 👀 I’m interested in open source, tweaking phone.
+- 👀 I’m interested in open source, tweaking phone, homelabs.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on interesting ideas
 - 📫 How to reach me: karol.gocel@pm.me
 
 <!---
